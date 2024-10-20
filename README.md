@@ -9,7 +9,7 @@ E hoje começo a minha saga para melhoria das minhas habilidades, utilizando os 
 | Status | Desafio | Nome |                      Projeto                     |   Demo   | Ferramentas |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
 |   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1) | [Acessar](https://khozett.github.io/Blog/) | HTML, CSS E JS |
-|   ⚠️   |   02    | JordanShoes | Em breve  | Em breve ) | Em breve  |
+|   ⚠️   |   02    | JordanShoes | Em breve  | Em breve  | Em breve  |
 |   ⚠️   |   03    | TechBlog    | Em breve  | Em breve | Em breve  |
 |   ⚠️   |   04    | Login       | Em breve  | Em breve | Em breve |
 |   ⚠️   |   05    | Studio Ghibli | Em breve  | Em breve | Em breve |
